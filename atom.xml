@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-09T13:40:51.966Z</updated>
+  <updated>2020-02-09T13:46:43.106Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="http://yoursite.com/2020/02/09/PHP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Day1/"/>
     <id>http://yoursite.com/2020/02/09/PHP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Day1/</id>
     <published>2020-02-09T13:20:22.000Z</published>
-    <updated>2020-02-09T13:40:51.966Z</updated>
+    <updated>2020-02-09T13:46:43.106Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Day1-手动配置wamp开发环境"><a href="#Day1-手动配置wamp开发环境" class="headerlink" title="Day1.手动配置wamp开发环境"></a>Day1.手动配置wamp开发环境</h1><h2 id="一、PHP安装"><a href="#一、PHP安装" class="headerlink" title="一、PHP安装"></a>一、PHP安装</h2><h3 id="1-文件下载"><a href="#1-文件下载" class="headerlink" title="1.文件下载"></a>1.文件下载</h3><p>点击 <a href=""https://windows.php.net/downloads/releases/"">下载链接</a>，进入后根据自己电脑系统位数选择相应文件下载</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Day1-手动配置wamp开发环境"><a href="#Day1-手动配置wamp开发环境" class="headerlink" title="Day1.手动配置wamp开发环境"></a>Day1.手动配置wamp开发环境</h1><h2 id="一、PHP安装"><a href="#一、PHP安装" class="headerlink" title="一、PHP安装"></a>一、PHP安装</h2><h3 id="1-文件下载"><a href="#1-文件下载" class="headerlink" title="1.文件下载"></a>1.文件下载</h3><p>点击 <a href="https://windows.php.net/downloads/releases/" target="_blank" rel="noopener">下载链接</a>，进入后根据自己电脑系统位数选择相应文件下载</p>]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Day1-手动配置wamp开发环境&quot;&gt;&lt;a href=&quot;#Day1-手动配置wamp开发环境&quot; class=&quot;headerlink&quot; title=&quot;Day1.手动配置wamp开发环境&quot;&gt;&lt;/a&gt;Day1.手动配置wamp开发环境&lt;/h1&gt;&lt;h2 id=&quot;一、PHP安装&quot;&gt;&lt;a href=&quot;#一、PHP安装&quot; class=&quot;headerlink&quot; title=&quot;一、PHP安装&quot;&gt;&lt;/a&gt;一、PHP安装&lt;/h2&gt;&lt;h3 id=&quot;1-文件下载&quot;&gt;&lt;a href=&quot;#1-文件下载&quot; class=&quot;headerlink&quot; title=&quot;1.文件下载&quot;&gt;&lt;/a&gt;1.文件下载&lt;/h3&gt;&lt;p&gt;点击 &lt;a href https: windows.php.net downloads releases &quot;&quot;&gt;下载链接&lt;/a&gt;，进入后根据自己电脑系统位数选择相应文件下载&lt;/p&gt;
+      &lt;h1 id=&quot;Day1-手动配置wamp开发环境&quot;&gt;&lt;a href=&quot;#Day1-手动配置wamp开发环境&quot; class=&quot;headerlink&quot; title=&quot;Day1.手动配置wamp开发环境&quot;&gt;&lt;/a&gt;Day1.手动配置wamp开发环境&lt;/h1&gt;&lt;h2 id=&quot;一、PHP安装&quot;&gt;&lt;a href=&quot;#一、PHP安装&quot; class=&quot;headerlink&quot; title=&quot;一、PHP安装&quot;&gt;&lt;/a&gt;一、PHP安装&lt;/h2&gt;&lt;h3 id=&quot;1-文件下载&quot;&gt;&lt;a href=&quot;#1-文件下载&quot; class=&quot;headerlink&quot; title=&quot;1.文件下载&quot;&gt;&lt;/a&gt;1.文件下载&lt;/h3&gt;&lt;p&gt;点击 &lt;a href=&quot;https://windows.php.net/downloads/releases/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;下载链接&lt;/a&gt;，进入后根据自己电脑系统位数选择相应文件下载&lt;/p&gt;
 
     
     </summary>
