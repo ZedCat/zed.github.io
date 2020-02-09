@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World，你好！世界！</title>
-    <url>/2020/01/27/hello-world/</url>
-    <content><![CDATA[<h2 id="最简单的事"><a href="#最简单的事" class="headerlink" title="最简单的事"></a>最简单的事</h2><p>&emsp;​&emsp;最难的事其实是坚持做一件简单的事。本来打算一直写博客，最起码做到一周一更，无所谓有没有人看，但是后来因为种种原因中断了，非常可惜。庆幸的是还能继续拾起来继续写，哈哈。虽然不知道还能写多久。</p>
-<p>&emsp;​&emsp;起初做写个人博客的目的很简单，菜鸟炫技（diu ren xian yan），希望能给自己的面试加分，可是因为是菜鸟，面试的时候根本没人在意这个。后来我就转行了，这个算是个人爱好了吧。花了三个晚上把自己的小站又搭了起来，虽然简单，不过也有几个小插曲。其中一个就是背景canvas.js下载了插件并更改配置文件后仍然没有生效，现在来看应该是js文件引用顺序问题。后来全部换成CDN引用后问题解决。</p>
-<h2 id="重新出发"><a href="#重新出发" class="headerlink" title="重新出发"></a>重新出发</h2><p>&emsp; &emsp; 以前学的内容都已经忘记的差不多了，现在开始在大刘的指导下重新学习PHP，重新发出，重新开始！</p>
+    <title>PHP学习笔记-Day1</title>
+    <url>/2020/02/09/PHP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Day1/</url>
+    <content><![CDATA[<h1 id="Day1-手动配置wamp开发环境"><a href="#Day1-手动配置wamp开发环境" class="headerlink" title="Day1.手动配置wamp开发环境"></a>Day1.手动配置wamp开发环境</h1><h2 id="一、PHP安装"><a href="#一、PHP安装" class="headerlink" title="一、PHP安装"></a>一、PHP安装</h2><h3 id="1-文件下载"><a href="#1-文件下载" class="headerlink" title="1.文件下载"></a>1.文件下载</h3><p>点击 <a href=""https://windows.php.net/downloads/releases/"">下载链接</a>，进入后根据自己电脑系统位数选择相应文件下载</p>
 ]]></content>
+      <categories>
+        <category>PHP学习</category>
+      </categories>
+      <tags>
+        <tag>PHP学习</tag>
+        <tag>环境配置</tag>
+        <tag>手动配置</tag>
+      </tags>
   </entry>
   <entry>
     <title>新服务器折腾步骤</title>
@@ -52,5 +58,13 @@
         <tag>一键脚本</tag>
         <tag>V2ray</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World，你好！世界！</title>
+    <url>/2019/09/09/hello-world/</url>
+    <content><![CDATA[<h2 id="最简单的事"><a href="#最简单的事" class="headerlink" title="最简单的事"></a>最简单的事</h2><p>&emsp;​&emsp;最难的事其实是坚持做一件简单的事。本来打算一直写博客，最起码做到一周一更，无所谓有没有人看，但是后来因为种种原因中断了，非常可惜。庆幸的是还能继续拾起来继续写，哈哈。虽然不知道还能写多久。</p>
+<p>&emsp;​&emsp;起初做写个人博客的目的很简单，菜鸟炫技（diu ren xian yan），希望能给自己的面试加分，可是因为是菜鸟，面试的时候根本没人在意这个。后来我就转行了，这个算是个人爱好了吧。花了三个晚上把自己的小站又搭了起来，虽然简单，不过也有几个小插曲。其中一个就是背景canvas.js下载了插件并更改配置文件后仍然没有生效，现在来看应该是js文件引用顺序问题。后来全部换成CDN引用后问题解决。</p>
+<h2 id="重新出发"><a href="#重新出发" class="headerlink" title="重新出发"></a>重新出发</h2><p>&emsp; &emsp; 以前学的内容都已经忘记的差不多了，现在开始在大刘的指导下重新学习PHP，重新发出，重新开始！</p>
+]]></content>
   </entry>
 </search>

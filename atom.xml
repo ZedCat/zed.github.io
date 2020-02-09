@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-27T07:50:50.516Z</updated>
+  <updated>2020-02-09T13:40:51.966Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,24 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World，你好！世界！</title>
-    <link href="http://yoursite.com/2020/01/27/hello-world/"/>
-    <id>http://yoursite.com/2020/01/27/hello-world/</id>
-    <published>2020-01-27T07:50:49.578Z</published>
-    <updated>2020-01-27T07:50:50.516Z</updated>
+    <title>PHP学习笔记-Day1</title>
+    <link href="http://yoursite.com/2020/02/09/PHP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Day1/"/>
+    <id>http://yoursite.com/2020/02/09/PHP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Day1/</id>
+    <published>2020-02-09T13:20:22.000Z</published>
+    <updated>2020-02-09T13:40:51.966Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="最简单的事"><a href="#最简单的事" class="headerlink" title="最简单的事"></a>最简单的事</h2><p>&emsp;​&emsp;最难的事其实是坚持做一件简单的事。本来打算一直写博客，最起码做到一周一更，无所谓有没有人看，但是后来因为种种原因中断了，非常可惜。庆幸的是还能继续拾起来继续写，哈哈。虽然不知道还能写多久。</p><p>&emsp;​&emsp;起初做写个人博客的目的很简单，菜鸟炫技（diu ren xian yan），希望能给自己的面试加分，可是因为是菜鸟，面试的时候根本没人在意这个。后来我就转行了，这个算是个人爱好了吧。花了三个晚上把自己的小站又搭了起来，虽然简单，不过也有几个小插曲。其中一个就是背景canvas.js下载了插件并更改配置文件后仍然没有生效，现在来看应该是js文件引用顺序问题。后来全部换成CDN引用后问题解决。</p><h2 id="重新出发"><a href="#重新出发" class="headerlink" title="重新出发"></a>重新出发</h2><p>&emsp; &emsp; 以前学的内容都已经忘记的差不多了，现在开始在大刘的指导下重新学习PHP，重新发出，重新开始！</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Day1-手动配置wamp开发环境"><a href="#Day1-手动配置wamp开发环境" class="headerlink" title="Day1.手动配置wamp开发环境"></a>Day1.手动配置wamp开发环境</h1><h2 id="一、PHP安装"><a href="#一、PHP安装" class="headerlink" title="一、PHP安装"></a>一、PHP安装</h2><h3 id="1-文件下载"><a href="#1-文件下载" class="headerlink" title="1.文件下载"></a>1.文件下载</h3><p>点击 <a href=""https://windows.php.net/downloads/releases/"">下载链接</a>，进入后根据自己电脑系统位数选择相应文件下载</p>]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;最简单的事&quot;&gt;&lt;a href=&quot;#最简单的事&quot; class=&quot;headerlink&quot; title=&quot;最简单的事&quot;&gt;&lt;/a&gt;最简单的事&lt;/h2&gt;&lt;p&gt;&amp;emsp;​&amp;emsp;最难的事其实是坚持做一件简单的事。本来打算一直写博客，最起码做到一周一更，无所谓有没有人看，但是后来因为种种原因中断了，非常可惜。庆幸的是还能继续拾起来继续写，哈哈。虽然不知道还能写多久。&lt;/p&gt;
-&lt;p&gt;&amp;emsp;​&amp;emsp;起初做写个人博客的目的很简单，菜鸟炫技（diu ren xian yan），希望能给自己的面试加分，可是因为是菜鸟，面试的时候根本没人在意这个。后来我就转行了，这个算是个人爱好了吧。花了三个晚上把自己的小站又搭了起来，虽然简单，不过也有几个小插曲。其中一个就是背景canvas.js下载了插件并更改配置文件后仍然没有生效，现在来看应该是js文件引用顺序问题。后来全部换成CDN引用后问题解决。&lt;/p&gt;
-&lt;h2 id=&quot;重新出发&quot;&gt;&lt;a href=&quot;#重新出发&quot; class=&quot;headerlink&quot; title=&quot;重新出发&quot;&gt;&lt;/a&gt;重新出发&lt;/h2&gt;&lt;p&gt;&amp;emsp; &amp;emsp; 以前学的内容都已经忘记的差不多了，现在开始在大刘的指导下重新学习PHP，重新发出，重新开始！&lt;/p&gt;
+      &lt;h1 id=&quot;Day1-手动配置wamp开发环境&quot;&gt;&lt;a href=&quot;#Day1-手动配置wamp开发环境&quot; class=&quot;headerlink&quot; title=&quot;Day1.手动配置wamp开发环境&quot;&gt;&lt;/a&gt;Day1.手动配置wamp开发环境&lt;/h1&gt;&lt;h2 id=&quot;一、PHP安装&quot;&gt;&lt;a href=&quot;#一、PHP安装&quot; class=&quot;headerlink&quot; title=&quot;一、PHP安装&quot;&gt;&lt;/a&gt;一、PHP安装&lt;/h2&gt;&lt;h3 id=&quot;1-文件下载&quot;&gt;&lt;a href=&quot;#1-文件下载&quot; class=&quot;headerlink&quot; title=&quot;1.文件下载&quot;&gt;&lt;/a&gt;1.文件下载&lt;/h3&gt;&lt;p&gt;点击 &lt;a href https: windows.php.net downloads releases &quot;&quot;&gt;下载链接&lt;/a&gt;，进入后根据自己电脑系统位数选择相应文件下载&lt;/p&gt;
 
     
     </summary>
     
     
+      <category term="PHP学习" scheme="http://yoursite.com/categories/PHP%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="PHP学习" scheme="http://yoursite.com/tags/PHP%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="环境配置" scheme="http://yoursite.com/tags/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
+    
+      <category term="手动配置" scheme="http://yoursite.com/tags/%E6%89%8B%E5%8A%A8%E9%85%8D%E7%BD%AE/"/>
     
   </entry>
   
@@ -67,6 +73,28 @@
       <category term="一键脚本" scheme="http://yoursite.com/tags/%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC/"/>
     
       <category term="V2ray" scheme="http://yoursite.com/tags/V2ray/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World，你好！世界！</title>
+    <link href="http://yoursite.com/2019/09/09/hello-world/"/>
+    <id>http://yoursite.com/2019/09/09/hello-world/</id>
+    <published>2019-09-09T13:09:09.000Z</published>
+    <updated>2020-02-09T13:27:33.393Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="最简单的事"><a href="#最简单的事" class="headerlink" title="最简单的事"></a>最简单的事</h2><p>&emsp;​&emsp;最难的事其实是坚持做一件简单的事。本来打算一直写博客，最起码做到一周一更，无所谓有没有人看，但是后来因为种种原因中断了，非常可惜。庆幸的是还能继续拾起来继续写，哈哈。虽然不知道还能写多久。</p><p>&emsp;​&emsp;起初做写个人博客的目的很简单，菜鸟炫技（diu ren xian yan），希望能给自己的面试加分，可是因为是菜鸟，面试的时候根本没人在意这个。后来我就转行了，这个算是个人爱好了吧。花了三个晚上把自己的小站又搭了起来，虽然简单，不过也有几个小插曲。其中一个就是背景canvas.js下载了插件并更改配置文件后仍然没有生效，现在来看应该是js文件引用顺序问题。后来全部换成CDN引用后问题解决。</p><h2 id="重新出发"><a href="#重新出发" class="headerlink" title="重新出发"></a>重新出发</h2><p>&emsp; &emsp; 以前学的内容都已经忘记的差不多了，现在开始在大刘的指导下重新学习PHP，重新发出，重新开始！</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;最简单的事&quot;&gt;&lt;a href=&quot;#最简单的事&quot; class=&quot;headerlink&quot; title=&quot;最简单的事&quot;&gt;&lt;/a&gt;最简单的事&lt;/h2&gt;&lt;p&gt;&amp;emsp;​&amp;emsp;最难的事其实是坚持做一件简单的事。本来打算一直写博客，最起码做到一周一更，无所谓有没有人看，但是后来因为种种原因中断了，非常可惜。庆幸的是还能继续拾起来继续写，哈哈。虽然不知道还能写多久。&lt;/p&gt;
+&lt;p&gt;&amp;emsp;​&amp;emsp;起初做写个人博客的目的很简单，菜鸟炫技（diu ren xian yan），希望能给自己的面试加分，可是因为是菜鸟，面试的时候根本没人在意这个。后来我就转行了，这个算是个人爱好了吧。花了三个晚上把自己的小站又搭了起来，虽然简单，不过也有几个小插曲。其中一个就是背景canvas.js下载了插件并更改配置文件后仍然没有生效，现在来看应该是js文件引用顺序问题。后来全部换成CDN引用后问题解决。&lt;/p&gt;
+&lt;h2 id=&quot;重新出发&quot;&gt;&lt;a href=&quot;#重新出发&quot; class=&quot;headerlink&quot; title=&quot;重新出发&quot;&gt;&lt;/a&gt;重新出发&lt;/h2&gt;&lt;p&gt;&amp;emsp; &amp;emsp; 以前学的内容都已经忘记的差不多了，现在开始在大刘的指导下重新学习PHP，重新发出，重新开始！&lt;/p&gt;
+
+    
+    </summary>
+    
+    
     
   </entry>
   
