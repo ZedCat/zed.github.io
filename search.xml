@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>PHP学习笔记-Day3</title>
-    <url>/MyBlog.git/2020/03/13/PHP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Day3/</url>
+    <url>/myblog/2020/03/13/PHP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Day3/</url>
     <content><![CDATA[<h2 id="条件控制语句"><a href="#条件控制语句" class="headerlink" title="条件控制语句"></a>条件控制语句</h2><ol>
 <li><p>if/else 和JS一样。经典案例如下</p>
 <figure class="highlight php"><table><tr><td class="code"><pre><span class="line">$age=<span class="number">30</span>;</span><br><span class="line"><span class="keyword">if</span> ($age&gt;<span class="number">18</span>)&#123;</span><br><span class="line">    <span class="keyword">echo</span> <span class="string">"您已经成年！"</span>;</span><br><span class="line">&#125;<span class="keyword">else</span>&#123;</span><br><span class="line">    <span class="keyword">echo</span> <span class="string">"您未成年！"</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
@@ -30,7 +30,7 @@
   </entry>
   <entry>
     <title>Windows使用技巧</title>
-    <url>/MyBlog.git/2020/03/13/windows%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/</url>
+    <url>/myblog/2020/03/13/windows%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/</url>
     <content><![CDATA[<h1 id="Windows使用技巧"><a href="#Windows使用技巧" class="headerlink" title="Windows使用技巧"></a>Windows使用技巧</h1><ol>
 <li><h3 id="微信双开"><a href="#微信双开" class="headerlink" title="微信双开"></a>微信双开</h3><p>新建一个txt文档，输入以下内容</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">@<span class="built_in">echo</span> off</span><br><span class="line">start /d <span class="string">"C:\Program Files (x86)\Tencent\WeChat\" WeChat.exe</span></span><br><span class="line"><span class="string">start /d "</span>C:\Program Files (x86)\Tencent\WeChat\" WeChat.exe</span><br><span class="line"><span class="built_in">exit</span></span><br></pre></td></tr></table></figure>
@@ -63,7 +63,7 @@
   </entry>
   <entry>
     <title>PHP学习笔记-Day2</title>
-    <url>/MyBlog.git/2020/02/24/PHP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Day2/</url>
+    <url>/myblog/2020/02/24/PHP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Day2/</url>
     <content><![CDATA[<ol>
 <li><p>定义变量使用关键字<code>$</code>。</p>
 </li>
@@ -99,7 +99,7 @@
   </entry>
   <entry>
     <title>PHP学习笔记-Day1</title>
-    <url>/MyBlog.git/2020/02/09/PHP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Day1/</url>
+    <url>/myblog/2020/02/09/PHP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Day1/</url>
     <content><![CDATA[<h1 id="Day1-手动配置WAMP开发环境"><a href="#Day1-手动配置WAMP开发环境" class="headerlink" title="Day1.手动配置WAMP开发环境"></a>Day1.手动配置WAMP开发环境</h1><h2 id="一、PHP安装"><a href="#一、PHP安装" class="headerlink" title="一、PHP安装"></a>一、PHP安装</h2><h3 id="1-文件下载"><a href="#1-文件下载" class="headerlink" title="1. 文件下载"></a>1. 文件下载</h3><ol>
 <li>点击 <a href="https://windows.php.net/downloads/releases/" target="_blank" rel="noopener">下载链接</a>，进入后根据自己电脑系统位数选择相应文件下载，注意解压后里面有文件 <code>php7apache2_4.dll</code>拓展</li>
 </ol>
@@ -200,7 +200,7 @@
   </entry>
   <entry>
     <title>谷歌云新服务器折腾指北</title>
-    <url>/MyBlog.git/2020/01/07/%E6%96%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8A%98%E8%85%BE%E6%AD%A5%E9%AA%A4/</url>
+    <url>/myblog/2020/01/07/%E6%96%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8A%98%E8%85%BE%E6%AD%A5%E9%AA%A4/</url>
     <content><![CDATA[<h1 id="谷歌云新服务器折腾指北"><a href="#谷歌云新服务器折腾指北" class="headerlink" title="谷歌云新服务器折腾指北"></a>谷歌云新服务器折腾指北</h1><h2 id="一、使用第三方SSH连接服务器"><a href="#一、使用第三方SSH连接服务器" class="headerlink" title="一、使用第三方SSH连接服务器"></a>一、使用第三方SSH连接服务器</h2><ol>
 <li>以X-shell为例。依次点击：工具 - 新建用户密钥生成向导 - 下一步 - 下一步 - 修改密钥名称(短一点能记住的)，密码不填 - 是，这样就完成了本地公钥的创建。查看可点击工具 - 用户密钥管理者 - 选择你要看的密钥名称 - 点击属性 - 公钥即可。</li>
 <li>GCP控制面板依次选择：compute engine - 元数据 - SSH密钥 - 修改 - 复制刚刚创建的本地公钥，注意在最后加上密钥名称。</li>
@@ -263,7 +263,7 @@
   </entry>
   <entry>
     <title>Hello World，你好！世界！</title>
-    <url>/MyBlog.git/2019/09/09/hello-world/</url>
+    <url>/myblog/2019/09/09/hello-world/</url>
     <content><![CDATA[<h2 id="最简单的事"><a href="#最简单的事" class="headerlink" title="最简单的事"></a>最简单的事</h2><p>&emsp;​&emsp;最难的事其实是坚持做一件简单的事。本来打算一直写博客，最起码做到一周一更，无所谓有没有人看，但是后来因为种种原因中断了，非常可惜。庆幸的是还能继续拾起来继续写，哈哈。虽然不知道还能写多久。</p>
 <p>&emsp;​&emsp;起初做写个人博客的目的很简单，菜鸟炫技（diu ren xian yan），希望能给自己的面试加分，可是因为是菜鸟，面试的时候根本没人在意这个。后来我就转行了，这个算是个人爱好了吧。花了三个晚上把自己的小站又搭了起来，虽然简单，不过也有几个小插曲。其中一个就是背景canvas.js下载了插件并更改配置文件后仍然没有生效，现在来看应该是js文件引用顺序问题。后来全部换成CDN引用后问题解决。</p>
 <h2 id="重新出发"><a href="#重新出发" class="headerlink" title="重新出发"></a>重新出发</h2><p>&emsp; &emsp; 以前学的内容都已经忘记的差不多了，现在开始在大刘的指导下重新学习PHP，重新发出，重新开始！</p>
